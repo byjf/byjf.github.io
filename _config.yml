@@ -1,13 +1,13 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Joefel Bolo
+url: "byjf.github.io"
+baseurl: ""
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+#ins_logo: "./favicon.png"
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
@@ -16,9 +16,9 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Writing"
+   link: "writing"
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "about"
  - name: "Contact"
    link: "contact"
