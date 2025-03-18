@@ -8,4 +8,4 @@ is_contact: false
 <br>
 <br>
 <br>
-<a href="mailto:joefelbolo@gmail.com"><i>Email</i></a> | <a href="https://instagram.com/joef3l" target="_blank"><i>Instagram</i></a>
+<a href="mailto:joefelbolo@gmail.com">Email</a> | <a href="https://instagram.com/joef3l" target="_blank">Instagram</a>
