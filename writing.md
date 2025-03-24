@@ -4,7 +4,7 @@ is_contact: false
 ---
 <br>
 <br>
-<b>Selected Works</b>
+<h1><b>Selected Works</b></h1>
 <br>
 <br>
 <b>Mantis at Stanford University:</b> <i>Look Around! There’s Movement!</i> (forthcoming)
