@@ -6,14 +6,14 @@ is_contact: false
 <br>
 <h1><b>Selected Works</b></h1>
 <br>
-<mark>Nonfiction</mark>
+<mark style="background: #F96E2A!important">Nonfiction</mark>
 <br>
 <br>
 <b>RUBY:</b> <i>Yesterday is Sugar</i> (forthcoming)
 <br>
 <br>
 <br>
-<mark>Poetry</mark>
+<mark style="background: #F96E2A!important">Poetry</mark>
 <br>
 <br>
 <b>Mantis at Stanford University:</b> <i>Look Around! There’s Movement!</i> (forthcoming)
