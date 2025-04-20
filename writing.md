@@ -6,11 +6,17 @@ is_contact: false
 <br>
 <h1><b>Selected Works</b></h1>
 <br>
-<br>
-<b>Mantis at Stanford University:</b> <i>Look Around! There’s Movement!</i> (forthcoming)
+Nonfiction
 <br>
 <br>
 <b>RUBY:</b> <i>Yesterday is Sugar</i> (forthcoming)
+<br>
+<br>
+<br>
+Poetry
+<br>
+<br>
+<b>Mantis at Stanford University:</b> <i>Look Around! There’s Movement!</i> (forthcoming)
 <br>
 <br>
 <b>Ouch! Collective:</b> <a href="https://www.ouchcollective.com/store/p/vol-4" target="_blank"><i>Soft Poem</i></a>
