@@ -16,10 +16,10 @@ RUBY: <i>Yesterday is Sugar</i> (forthcoming)
 <mark style="background: #f79768!important"><b>Poetry</b></mark>
 <br>
 <br>
-bad apple: <i>Another Poem About The Gardener And The Boy</i> (forthcoming)
-<br>
-<br>
 Mantis at Stanford University: <i>Look Around! There’s Movement!</i> (forthcoming)
+<br>
+<br>
+bad apple: <a href="https://badapple.gay/2025/06/06/another-poem-about-the-gardener-and-the-boy/" target="_blank"><i>Another Poem About the Gardener and the Boy</i></a>
 <br>
 <br>
 Ouch! Collective: <a href="https://www.ouchcollective.com/store/p/vol-4" target="_blank"><i>Soft Poem</i></a>
