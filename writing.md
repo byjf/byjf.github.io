@@ -9,6 +9,9 @@ is_contact: false
 <mark style="background: #f79768!important"><b>Nonfiction</b></mark>
 <br>
 <br>
+TIMBER: <i>Provincial Yearning</i> (forthcoming)
+<br>
+<br>
 RUBY: <i>Yesterday is Sugar</i> (forthcoming)
 <br>
 <br>
