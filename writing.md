@@ -19,6 +19,9 @@ RUBY: <i>Yesterday is Sugar</i> (forthcoming)
 <mark style="background: #f79768!important"><b>Poetry</b></mark>
 <br>
 <br>
+The McNeese Review (Boudin): <i>Ricegay</i> (forthcoming)
+<br>
+<br>
 Mantis at Stanford University: <i>Look Around! There’s Movement!</i> (forthcoming)
 <br>
 <br>
