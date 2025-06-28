@@ -19,10 +19,10 @@ RUBY: <i>Yesterday is Sugar</i> (forthcoming)
 <mark style="background: #f79768!important"><b>Poetry</b></mark>
 <br>
 <br>
-The McNeese Review (Boudin): <i>Ricegay</i> (forthcoming)
-<br>
-<br>
 Mantis at Stanford University: <i>Look Around! There’s Movement!</i> (forthcoming)
+<br>
+<br>
+The McNeese Review/Boudin: <a href="https://www.mcneese.edu/thereview/2025/06/25/ricegay/" target="_blank"><i>Ricegay</i></a>
 <br>
 <br>
 bad apple: <a href="https://badapple.gay/2025/06/06/another-poem-about-the-gardener-and-the-boy/" target="_blank"><i>Another Poem About the Gardener and the Boy</i></a>
