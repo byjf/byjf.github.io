@@ -28,7 +28,7 @@ The McNeese Review/Boudin: <a href="https://www.mcneese.edu/thereview/2025/06/25
 bad apple: <a href="https://badapple.gay/2025/06/06/another-poem-about-the-gardener-and-the-boy/" target="_blank"><i>Another Poem About the Gardener and the Boy</i></a>
 <br>
 <br>
-Ouch! Collective: <a href="https://www.ouchcollective.com/store/p/vol-4" target="_blank"><i>Soft Poem</i></a>
+Ouch! Collective: <a href="https://www.ouchcollective.com/store/p/vol-4" target="_blank"><i>Soft Poem</i></a> (print)
 <br>
 <br>
 DIALOGIST: <a href="https://dialogist.org/poetry/2024-week-51-joefel-bolo" target="_blank"><i>Two poems</i></a>
