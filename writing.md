@@ -19,7 +19,7 @@ RUBY: <i>Yesterday is Sugar</i> (forthcoming)
 <mark style="background: #f79768!important"><b>Poetry</b></mark>
 <br>
 <br>
-Mantis at Stanford University: <i>Look Around! There’s Movement!</i> (forthcoming)
+Mantis at Stanford University: <i>Look Around! There’s Movement!</i> (print)
 <br>
 <br>
 The McNeese Review/Boudin: <a href="https://www.mcneese.edu/thereview/2025/06/25/ricegay/" target="_blank"><i>Ricegay</i></a>
@@ -34,7 +34,7 @@ Ouch! Collective: <a href="https://www.ouchcollective.com/store/p/vol-4" target=
 DIALOGIST: <a href="https://dialogist.org/poetry/2024-week-51-joefel-bolo" target="_blank"><i>Two poems</i></a>
 <br>
 <br>
-The Harvard Advocate: <a href="https://theharvardadvocate.com/queerzine" target="_blank"><i>urgencies</i></a>
+The Harvard Advocate: <a href="https://theharvardadvocate.com/queerzine" target="_blank"><i>urgencies</i></a> (print)
 <br>
 <br>
 ALOCASIA: <a href="https://alocasia.org/2024/09/22/joefel-bolo-kamias/" target="_blank"><i>Kamias</i></a>
