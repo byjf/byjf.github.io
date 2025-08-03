@@ -19,7 +19,7 @@ RUBY: <i>Yesterday is Sugar</i> (forthcoming)
 <mark style="background: #f79768!important"><b>Poetry</b></mark>
 <br>
 <br>
-Mantis at Stanford University: <i>Look Around! There’s Movement!</i> (print)
+Mantis at Stanford University: <a href="https://mantis.stanford.edu/order-issues/" target="_blank"><i>Look Around! There’s Movement!</i></a> (print)
 <br>
 <br>
 The McNeese Review/Boudin: <a href="https://www.mcneese.edu/thereview/2025/06/25/ricegay/" target="_blank"><i>Ricegay</i></a>
