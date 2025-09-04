@@ -12,11 +12,14 @@ is_contact: false
 TIMBER: <a href="https://timberjournal.org/archive/provincial-yearning/" target="_blank"><i>Provincial Yearning</i></a>
 <br>
 <br>
-RUBY: <i>Yesterday is Sugar</i> (forthcoming)
+RUBY: <a href="https://rubyliterarypress.com/issue-six-issue-six-food-stories/#joefel-bolo/" target="_blank"><i>Yesterday is Sugar</i></a>
 <br>
 <br>
 <br>
 <mark style="background: #f79768!important"><b>Poetry</b></mark>
+<br>
+<br>
+The Cortland Review: <i>I Worry About My Future</i></a> (forthcoming)
 <br>
 <br>
 Mantis at Stanford University: <a href="https://mantis.stanford.edu/order-issues/" target="_blank"><i>Look Around! There’s Movement!</i></a> (print)
