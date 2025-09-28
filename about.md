@@ -8,4 +8,3 @@ is_contact: false
 <br>
 <br>
 <br>
-<a href="mailto:joefelbolo@gmail.com">Email</a> | <a href="https://instagram.com/joef3l" target="_blank">Instagram</a>
