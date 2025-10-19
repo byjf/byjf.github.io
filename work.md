@@ -25,7 +25,7 @@ The Cortland Review: <i>I Worry About My Future</i> (forthcoming)
 The McNeese Review/Boudin: <a href="https://www.mcneese.edu/thereview/2025/06/25/ricegay/" target="_blank"><i>Ricegay</i></a>
 <br>
 <br>
-Mantis at Stanford University: <i>Look Around! There’s Movement!</i></a> (print)
+Mantis at Stanford University: <i>Look Around! There’s Movement!</i> (print)
 <br>
 <br>
 bad apple: <a href="https://badapple.gay/2025/06/06/another-poem-about-the-gardener-and-the-boy/" target="_blank"><i>Another Poem About the Gardener and the Boy</i></a>
