@@ -4,7 +4,7 @@ is_contact: false
 ---
 <br>
 <br>
-<mark style="background: #f79768!important"><h1>Selected Works</h1></mark>
+<h1><b>Selected Works</b></h1>
 <br>
 <mark style="background: #f79768!important"><b>Nonfiction</b></mark>
 <br>
@@ -19,7 +19,7 @@ RUBY: <a href="http://rubyliterarypress.com/259-2/issue-six/" target="_blank"><i
 <mark style="background: #f79768!important"><b>Poetry</b></mark>
 <br>
 <br>
-The Cortland Review: <i>I Worry About My Future</i> (forthcoming)
+The Cortland Review: <a href="https://www.cortlandreview.com/issue-95/joefel-bolo/" target="_blank"><i>I Worry About My Future</i></a>
 <br>
 <br>
 The McNeese Review/Boudin: <a href="https://www.mcneese.edu/thereview/2025/06/25/ricegay/" target="_blank"><i>Ricegay</i></a>
