@@ -25,7 +25,7 @@ The Cortland Review: <a href="https://www.cortlandreview.com/issue-95/joefel-bol
 The McNeese Review/Boudin: <a href="https://www.mcneese.edu/thereview/2025/06/25/ricegay/" target="_blank"><i>Ricegay</i></a>
 <br>
 <br>
-Mantis at Stanford University: <i>Look Around! There’s Movement!</i> (print)
+Mantis at Stanford University: <a href="https://www.sup.org/books/literary-studies-and-literature/mantis-journal-poetry-criticism-translation-0" target="_blank"><i>Look Around! There’s Movement!</i></a> (print)
 <br>
 <br>
 bad apple: <a href="https://badapple.gay/2025/06/06/another-poem-about-the-gardener-and-the-boy/" target="_blank"><i>Another Poem About the Gardener and the Boy</i></a>
