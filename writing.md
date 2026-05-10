@@ -40,7 +40,7 @@ DIALOGIST: <a href="https://dialogist.org/poetry/2024-week-51-joefel-bolo" targe
 The Harvard Advocate: <a href="https://theharvardadvocate.com/queerzine" target="_blank"><i>urgencies</i></a> (print)
 <br>
 <br>
-ALOCASIA: <a href="https://alocasia.org/2024/09/22/joefel-bolo-kamias/" target="_blank"><i>Kamias</i></a>
+ALOCASIA: <a href="https://alocasia.org/2024/09/22/joefel-bolo-kamias/" target="_blank"><i>Kamias</i></a> (anthologized in <a href="https://www.barnesandnoble.com/w/alocasia-sarah-clark/1149442361?ean=9798218855826e" target="_blank"><i>Alocasia: 99 queer writers on plants and nature</i></a>)
 <br>
 <br>
 beestung: <a href="https://beestungmag.com/issue19/two-poems-by-joefel-bolo/" target="_blank"><i>Two poems</i></a>
