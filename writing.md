@@ -10,17 +10,15 @@ is_contact: false
 <br>
 <br>
 <ul>
-<li>TIMBER: <a href="https://timberjournal.org/archive/provincial-yearning/" target="_blank"><i>Provincial Yearning</i></a></li>
-<li>RUBY: <a href="http://rubyliterarypress.com/259-2/issue-six/" target="_blank"><i>Yesterday is Sugar</i></a></li>
+<li><a href="https://timberjournal.org/archive/provincial-yearning/" target="_blank"><i>Provincial Yearning</i></a> - TIMBER</li>
+<li><a href="http://rubyliterarypress.com/259-2/issue-six/" target="_blank"><i>Yesterday is Sugar</i></a> - Ruby</li>
 <br>
 <br>
-<br>
+</ul>
 <mark style="background: #f79768!important"><b>Poetry</b></mark>
 <br>
-<br>
-The Cortland Review: <a href="https://www.cortlandreview.com/issue-95/joefel-bolo/" target="_blank"><i>I Worry About My Future</i></a>
-<br>
-<br>
+<ul>
+<li><a href="https://www.cortlandreview.com/issue-95/joefel-bolo/" target="_blank"><i>I Worry About My Future</i></a> - The Cortland Review</li>
 The McNeese Review/Boudin: <a href="https://www.mcneese.edu/thereview/2025/06/25/ricegay/" target="_blank"><i>Ricegay</i></a>
 <br>
 <br>
