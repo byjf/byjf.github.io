@@ -9,10 +9,9 @@ is_contact: false
 <mark style="background: #f79768!important"><b>Nonfiction</b></mark>
 <br>
 <br>
-TIMBER: <a href="https://timberjournal.org/archive/provincial-yearning/" target="_blank"><i>Provincial Yearning</i></a>
-<br>
-<br>
-RUBY: <a href="http://rubyliterarypress.com/259-2/issue-six/" target="_blank"><i>Yesterday is Sugar</i></a>
+<ul>
+<li>TIMBER: <a href="https://timberjournal.org/archive/provincial-yearning/" target="_blank"><i>Provincial Yearning</i></a></li>
+<li>RUBY: <a href="http://rubyliterarypress.com/259-2/issue-six/" target="_blank"><i>Yesterday is Sugar</i></a></li>
 <br>
 <br>
 <br>
