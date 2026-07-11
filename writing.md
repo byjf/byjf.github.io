@@ -4,9 +4,9 @@ is_contact: false
 ---
 <br>
 <br>
-<h2><b>SELECTED WORKS</b></h2>
+<h2><b>Selected Works</b></h2>
 <br>
-<mark style="background: #f79768!important"><b>Nonfiction</b></mark>
+<mark style="background: #f79768!important"><b>Prose</b></mark>
 <br>
 <br>
 <ul>
@@ -25,7 +25,7 @@ is_contact: false
 <li><a href="https://www.ouchcollective.com/store/p/vol-4" target="_blank"><i>Soft Poem</i></a> - Ouch! Collective</li>
 <li><a href="https://dialogist.org/poetry/2024-week-51-joefel-bolo" target="_blank"><i>Two poems</i></a> - DIALOGIST</li>
 <li><a href="https://theharvardadvocate.com/queerzine" target="_blank"><i>urgencies</i></a> - The Harvard Advocate</li>
-<li><a href="https://alocasia.org/2024/09/22/joefel-bolo-kamias/" target="_blank"><i>Kamias</i></a> - ALOCASIA, <i>included in the ALOCASIA: 99 queer writers on plants and nature</i></li>
+<li><a href="https://alocasia.org/2024/09/22/joefel-bolo-kamias/" target="_blank"><i>Kamias</i></a> - ALOCASIA</li>
 <li><a href="https://beestungmag.com/issue19/two-poems-by-joefel-bolo/" target="_blank"><i>Two poems</i></a> - beestung</li>
 <li><a href="https://fifthwheelpress.com/anth5backend/bolo1" target="_blank"><i>Summer has Gone, I must Go</i></a> - fifth wheel press</li> 
 <br>
