@@ -8,4 +8,4 @@ is_contact: false
 <br>
 <br>
 <br>
-<a href="mailto:contactjoefel@gmail.com">Email</a> | <a href="https://ko-fi.com/joefel" target="_blank">Support</a>
+<a href="mailto:contactjoefel@gmail.com">Contact</a> | <a href="https://ko-fi.com/joefel" target="_blank">Support</a>
