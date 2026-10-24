@@ -16,9 +16,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Writing"
-   link: "writing"
- - name: "Art"
-   link: "art"
+ - name: "Work"
+   link: "work"
  - name: "About"
    link: "about"
+ - name: "Contact"
+   link: "contact"
