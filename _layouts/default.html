@@ -21,7 +21,7 @@
         {% assign url = site.url | append: site.baseurl | append: page.url %}
     {% endif %}
     <meta name="description" content="{{ desc }}">
-    <link href='https://googleapis.com' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Spectral' rel='stylesheet' type='text/css'>
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
     {% if site.favicon %}
@@ -29,7 +29,7 @@
         <link rel="shortcut-icon" type="image/ico" href="{{ site.favicon_location }}">
     {% endif %}
     {% if site.twitter_username %}
-        <link rel="author" href="https://twitter.com{{ site.twitter_username }}">
+        <link rel="author" href="https://twitter.com/{{ site.twitter_username }}">
     {% endif %}
     <!-- Facebook Open Graph -->
     <meta name="og:description" content="{{ desc }}">
@@ -52,84 +52,8 @@
     {% else %}
         <meta name="twitter:image" content="{{ site.profile_picture }}">
     {% endif %}
-
-    <style>
-        :root {
-            --bg: #0d0d0d;
-            --text: #e4e4e7;
-            --accent: #c084fc;
-            --border: #27272a;
-            --toggle-bg: #1f1f23;
-        }
-
-        body:has(#theme-toggle:checked) {
-            --bg: #fafafa;
-            --text: #18181b;
-            --accent: #7c3aed;
-            --border: #e4e4e7;
-            --toggle-bg: #e4e4e7;
-        }
-
-        body {
-            background-color: var(--bg) !important;
-            color: var(--text) !important;
-            transition: background-color 0.25s ease, color 0.25s ease;
-        }
-
-        .wrapper, .navbar, .container, h1, h2, h3, h4, p, li, span, small {
-            color: var(--text) !important;
-        }
-
-        /* Force-remove any border/divider line in the navigation bar */
-        .navbar, .navbar-ul, .containerWide, hr {
-            border: none !important;
-            border-bottom: none !important;
-            box-shadow: none !important;
-        }
-
-        hr {
-            display: none !important;
-        }
-
-        a {
-            color: var(--accent) !important;
-        }
-
-        #author-name {
-            color: var(--text) !important;
-        }
-
-        .content {
-            margin-top: 2.5rem;
-        }
-
-        #theme-toggle {
-            display: none;
-        }
-
-        .toggle-btn {
-            cursor: pointer;
-            padding: 0.2rem 0.65rem;
-            font-size: 0.85rem;
-            border-radius: 999px;
-            background: var(--toggle-bg);
-            color: var(--text) !important;
-            border: 1px solid var(--border);
-            user-select: none;
-            margin-left: 0.5rem;
-        }
-
-        .toggle-btn::after {
-            content: "☀️ Light";
-        }
-
-        body:has(#theme-toggle:checked) .toggle-btn::after {
-            content: "🌙 Dark";
-        }
-    </style>
 </head>
 <body>
-    <input type="checkbox" id="theme-toggle">
     <div class="wrapper">
         <div class="navbar containerWide">
             {% if site.ins_logo %}
@@ -148,12 +72,10 @@
                     {% endif %}
                         </li>
                 {% endfor %}
-                <li class="alignable pull-left nav-list">
-                    <label for="theme-toggle" class="toggle-btn"></label>
-                </li>
             </ul>
         </div>
         <div style="clear:both"></div>
+        <hr>
         {% if page.is_contact == true %}
             <div class="container content contact">
         {% else %}
@@ -161,27 +83,19 @@
         {% endif %}
                 {{ content }}
                 {% if site.footer == true %}
-                    <p style="text-align: center; margin-top: 3rem; margin-bottom: 10px">
-                    <a href="{{ site.footer_url }}"><small>{{ site.footer_text }}</small></a>
+                    <hr />
+                    <p style="text-align: center; margin-bottom: 10px">
+                    <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
                     </p>
                 {% endif %}
             </div>
     </div>
-
-    <script>
-      const toggle = document.getElementById('theme-toggle');
-      if (localStorage.getItem('theme') === 'light') toggle.checked = true;
-      toggle.addEventListener('change', () => {
-        localStorage.setItem('theme', toggle.checked ? 'light' : 'dark');
-      });
-    </script>
-
     {% if site.tracking_id %}
         <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
           (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o);a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-          })(window,document,'script','//://google-analytics.com');
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
           ga('create', '{{ site.tracking_id }}', 'auto');
           ga('send', 'pageview');
         </script>
@@ -189,4 +103,3 @@
 </body>
 <footer>
 </footer>
-</html>
