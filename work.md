@@ -11,7 +11,7 @@ is_contact: false
 <ul>
 <li><a href="https://timberjournal.org/archive/provincial-yearning/" target="_blank"><i>Provincial Yearning</i></a> - TIMBER</li>
 <br>
-<li><i style="color: #f79768;">urgencies</i> - The Harvard Advocate, Queer Zine (print)</li>
+<li><i style="text-decoration: underline wavy #f79768; text-decoration-thickness: 1.5px; text-underline-offset: 4px;">urgencies</i> - The Harvard Advocate, Queer Zine (print</li>
 <br>
 <li><a href="https://www.cortlandreview.com/issue-95/joefel-bolo/" target="_blank"><i>I Worry About My Future</i></a> - The Cortland Review</li>
 <br>
@@ -21,11 +21,11 @@ is_contact: false
 <br>
 <li><a href="https://dialogist.org/poetry/2024-week-51-joefel-bolo" target="_blank"><i>Recedes; Afterglow</i></a> - DIALOGIST</li>
 <br>
-<li><i style="color: #f79768;">Soft Poem</i> - Ouch! Collective (print)</li>
+<li><i style="text-decoration: underline wavy #f79768; text-decoration-thickness: 1.5px; text-underline-offset: 4px;">Soft Poem</i> - Ouch! Collective (print)</li>
 <br>
 <li><a href="https://badapple.gay/2025/06/06/another-poem-about-the-gardener-and-the-boy/" target="_blank"><i>Another Poem About the Gardener and the Boy!</i></a> - bad apple</li>
 <br>
-<li><i style="color: #f79768;">Kamias</i> - ALOCASIA: 99 Queer Writers on Plants and Nature (print)</li>  
+<li><i style="text-decoration: underline wavy #f79768; text-decoration-thickness: 1.5px; text-underline-offset: 4px;">Kamias</i> - ALOCASIA: 99 Queer Writers on Plants and Nature (print)</li> 
 </ul>
 <br>
 <br>
