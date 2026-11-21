@@ -52,8 +52,74 @@
     {% else %}
         <meta name="twitter:image" content="{{ site.profile_picture }}">
     {% endif %}
+
+    <style>
+        :root {
+            --bg: #0d0d0d;
+            --text: #e4e4e7;
+            --accent: #c084fc;
+            --border: #27272a;
+            --toggle-bg: #1f1f23;
+        }
+
+        body:has(#theme-toggle:checked) {
+            --bg: #fafafa;
+            --text: #18181b;
+            --accent: #7c3aed;
+            --border: #e4e4e7;
+            --toggle-bg: #e4e4e7;
+        }
+
+        body {
+            background-color: var(--bg) !important;
+            color: var(--text) !important;
+            transition: background-color 0.25s ease, color 0.25s ease;
+        }
+
+        .wrapper, .navbar, .container, h1, h2, h3, h4, p, li, span, small {
+            color: var(--text) !important;
+        }
+
+        a {
+            color: var(--accent) !important;
+        }
+
+        #author-name {
+            color: var(--text) !important;
+        }
+
+        hr {
+            border-color: var(--border) !important;
+            background-color: var(--border) !important;
+        }
+
+        #theme-toggle {
+            display: none;
+        }
+
+        .toggle-btn {
+            cursor: pointer;
+            padding: 0.2rem 0.65rem;
+            font-size: 0.85rem;
+            border-radius: 999px;
+            background: var(--toggle-bg);
+            color: var(--text) !important;
+            border: 1px solid var(--border);
+            user-select: none;
+            margin-left: 0.5rem;
+        }
+
+        .toggle-btn::after {
+            content: "☀️ Light";
+        }
+
+        #theme-toggle:checked + .toggle-btn::after {
+            content: "🌙 Dark";
+        }
+    </style>
 </head>
 <body>
+    <input type="checkbox" id="theme-toggle">
     <div class="wrapper">
         <div class="navbar containerWide">
             {% if site.ins_logo %}
@@ -72,6 +138,9 @@
                     {% endif %}
                         </li>
                 {% endfor %}
+                <li class="alignable pull-left nav-list">
+                    <label for="theme-toggle" class="toggle-btn"></label>
+                </li>
             </ul>
         </div>
         <div style="clear:both"></div>
@@ -85,7 +154,7 @@
                 {% if site.footer == true %}
                     <hr />
                     <p style="text-align: center; margin-bottom: 10px">
-                    <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
+                    <a href="{{ site.footer_url }}"><small>{{ site.footer_text }}</small></a>
                     </p>
                 {% endif %}
             </div>
@@ -103,3 +172,4 @@
 </body>
 <footer>
 </footer>
+</html>
